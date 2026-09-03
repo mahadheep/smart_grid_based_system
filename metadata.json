@@ -1,0 +1,6 @@
+{
+  "name": "Smart Grid Dynamic Load Control with Deep RL",
+  "description": "Deep Reinforcement Learning (DQN) for Dynamic Load Control and Overload Prevention in Smart Power Systems (MLA0303)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
